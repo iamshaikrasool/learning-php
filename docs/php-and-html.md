@@ -83,10 +83,7 @@ Example #3:
   <body>
     <header>
       <h1>
-        <?php
-
-        echo "Hello, " . $_GET['name'];
-        ?>
+        <?= "Hello, " . $_GET['name']; ?>
       </h1>
     </header>
   </body>
@@ -115,10 +112,7 @@ Example #4:
   <body>
     <header>
       <h1>
-        <?php
-
-        echo "Hello, " . htmlspecialchars($_GET['name']);
-        ?>
+        <?= "Hello, " . htmlspecialchars($_GET['name']); ?>
       </h1>
     </header>
   </body>

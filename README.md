@@ -7,5 +7,5 @@ here, you'll learn the fundamentals of PHP - all the way down to defining variab
 ### Table of Contents:
 
 * [Variables](https://github.com/iamshaikrasool/learning-php/blob/master/docs/variables.md)
-* [PHP and HTML](https://github.com/iamshaikrasool/learning-php/blob/master/docs/variables.md)
-* [Separate PHP Logic From Presentation](https://github.com/iamshaikrasool/learning-php/blob/master/docs/variables.md)
+* [PHP and HTML](https://github.com/iamshaikrasool/learning-php/blob/master/docs/php-and-html.md)
+* [Separate PHP Logic From Presentation](https://github.com/iamshaikrasool/learning-php/blob/master/docs/Separate-php-logic-from-presentation.md)
