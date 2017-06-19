@@ -29,9 +29,8 @@
           // Example #3:
           echo "Hello, " . $_GET['name'];
         */
-        // Example #4:
-        echo "Hello, " . htmlspecialchars($_GET['name']);
-
+          // Example #4:
+          echo "Hello, " . htmlspecialchars($_GET['name']);
         ?>
       </h1>
     </header>
