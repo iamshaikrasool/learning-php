@@ -12,11 +12,10 @@ $text = "My";
 $age = 21;
 
 echo "$text age is {$age}"; // Output: My age is 21
+*/
 
 // Example #3:
 
 $name = "Shaik Rasool";
 
 echo 'My name is ' . $name; // Output: My name is Shaik Rasool
-
-*/
