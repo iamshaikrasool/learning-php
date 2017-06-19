@@ -43,7 +43,7 @@ Output:
 	• Age = 21
 	• Hair = Brown
 	• Career = Web developer
-  • Name = Rasool
+	• Name = Rasool
 ```
 
 Example #2: Adding array
