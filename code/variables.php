@@ -8,9 +8,10 @@ echo $greetings;  // Output: Hello World
 
 // Example #2:
 
-$name = "Shaik Rasool";
+$text = "My";
+$age = 21;
 
-echo "Hello, $name"; // Output: Hello, Shaik Rasool
+echo "$text age is {$age}"; // Output: My age is 21
 
 // Example #3:
 
