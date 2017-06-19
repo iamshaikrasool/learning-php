@@ -1,7 +1,7 @@
 ## Separate PHP Logic From Presentation
 
 Example #1:
-Create a view with `index.view.php`
+Create a view with `php-logic.view.php`
 ```html
 <!DOCTYPE html>
 <html>
@@ -26,7 +26,7 @@ Create a view with `index.view.php`
 </html>
 ```
 
-and importing `index.view.php` in `index.php`
+and importing `php-logic.view.php` in `php-logic.php`
 
 ```php
 <?php
