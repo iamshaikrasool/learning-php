@@ -120,5 +120,5 @@ Output:
 ```
 	• Hair = Brown
 	• Career = Web developer
-  • Name = Rasool
+	• Name = Rasool
 ```
