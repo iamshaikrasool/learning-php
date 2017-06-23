@@ -10,4 +10,6 @@ here, you'll learn the fundamentals of PHP - all the way down to defining variab
 * [PHP and HTML](https://github.com/iamshaikrasool/learning-php/blob/master/docs/php-and-html.md)
 * [Separate PHP Logic From Presentation](https://github.com/iamshaikrasool/learning-php/blob/master/docs/php-logic.md)
 * [Understanding Arrays](https://github.com/iamshaikrasool/learning-php/blob/master/docs/arrays.md)
-* [Associative Arrays](https://github.com/iamshaikrasool/learning-php/blob/master/docs/associative-arrays.md)
+* [Booleans](https://github.com/iamshaikrasool/learning-php/blob/master/docs/booleans.md)
+* [Conditionals](https://github.com/iamshaikrasool/learning-php/blob/master/docs/conditionals.md)
+* [Functions](https://github.com/iamshaikrasool/learning-php/blob/master/docs/functions.md)
