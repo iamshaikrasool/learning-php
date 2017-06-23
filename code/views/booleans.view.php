@@ -14,7 +14,7 @@
         <strong>Due Date: </strong> <?= $task['due']; ?>
       </li>
       <li>
-        <strong>Personal Responsible: </strong> <?= $task['assigned_to']; ?>
+        <strong>Person Responsible: </strong> <?= $task['assigned_to']; ?>
       </li>
       <li>
         <strong>Status: </strong> <?= $task['completed'] ? "Completed" : "Not Completed"; ?>
