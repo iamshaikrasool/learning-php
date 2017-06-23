@@ -47,7 +47,7 @@ Output:
 ```
 
 Example #2: Adding array
-```
+```php
 <?php
 
   $person = [
