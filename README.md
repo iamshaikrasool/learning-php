@@ -15,3 +15,4 @@ here, you'll learn the fundamentals of PHP - all the way down to defining variab
 * [Functions](https://github.com/iamshaikrasool/learning-php/blob/master/docs/basics/functions.md)
 * [MySQL 101](https://github.com/iamshaikrasool/learning-php/blob/master/docs/basics/mysql-101.md)
 * [Classes 101](https://github.com/iamshaikrasool/learning-php/blob/master/docs/basics/classes-101.md)
+* [Intro to PDO](https://github.com/iamshaikrasool/learning-php/blob/master/docs/basics/intro-to-pdo.md)
